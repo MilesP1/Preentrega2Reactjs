@@ -5,7 +5,7 @@ function CartWidget (){
     return (
         <div>
             <img src={cart} alt="cart-widget"/>
-            12
+            0
         </div>
     )
 }

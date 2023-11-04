@@ -64,8 +64,6 @@ const lista_productos = [
 
         setTimeout ( ()=> {
 
-            //let cantidad  = Math.floor(Math.random() * lista_productos.length);
-            //console.log("Cantidad de productos devueltos en el asyncMock:", cantidad);
             resolve(lista_productos);
 
                 },500)
